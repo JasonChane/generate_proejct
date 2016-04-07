@@ -1,0 +1,15 @@
+//
+//  PrefixHeader.pch
+//  GeneratePbxproj
+//
+//  Created by Rich on 16/4/6.
+//  Copyright © 2016年 Rich. All rights reserved.
+//
+
+#ifndef PrefixHeader_h
+#define PrefixHeader_h
+
+#define RootGroupName @"Example"
+
+
+#endif /* PrefixHeader_h */

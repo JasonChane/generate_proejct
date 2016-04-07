@@ -7,6 +7,8 @@
 //
 
 #import "ViewController.h"
+#import "CreateFile.h"
+
 
 @implementation ViewController
 
@@ -14,6 +16,9 @@
     [super viewDidLoad];
 
     // Do any additional setup after loading the view.
+    [CreateFile createProject];
+    
+    
 }
 
 - (void)setRepresentedObject:(id)representedObject {
